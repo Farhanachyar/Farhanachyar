@@ -1,10 +1,20 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhanachyar.farhanachyar&left_text=PROFILE%20VISITS"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Farhan Achyar and I'm a student, from Indonesia</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -28,32 +38,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhanachyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanachyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=farhanachyar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanachyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=Top%20Language%20By%20Repo" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/farhanachyar/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
