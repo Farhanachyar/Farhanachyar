@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhanachyar.farhanachyar&left_text=PROFILE%20VISITS"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/farhanachyar/farhanachyar/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -32,6 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhanachyar.farhanachyar&left_text=PROFILE%20VISITS"  />
 </div>
 
 ###
