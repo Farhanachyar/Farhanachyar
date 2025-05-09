@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanachyar&label=Profile%20views&color=0e75b6&style=flat" alt="farhanachyar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanachyar" alt="farhanachyar" /></a> </p>
-
 - Hi, I'm working on a project [HyperBot](https://t.me/HyperXY_bot)
 
 - 👨‍💻 All of my projects are available at [https://www.farhanachyar.my.id/](https://www.farhanachyar.my.id/)
