@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhanachyar.farhanachyar&left_text=PROFILE%20VISITS"  />
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=farhanachyar&label=Profile%20Visits&style=for-the-badge" />
 </div>
 
 ###
